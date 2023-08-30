@@ -1,1 +1,6 @@
-
+*.bak
+*.swp
+*.~
+*build/
+*releases/
+*target/
