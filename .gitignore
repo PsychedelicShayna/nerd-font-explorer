@@ -4,3 +4,8 @@
 *build/
 *releases/
 *target/
+
+
+# Added by cargo
+
+/target
